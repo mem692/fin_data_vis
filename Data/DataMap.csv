@@ -1,0 +1,26 @@
+ACWIEXUS,MSCI ACWI ex-US (Net),Index,ACWIEXUS_Monthly
+AUD,Australian Dollar,Currency,AUD_Monthly
+USAGG,Bloomberg Barclays US Aggregate,Index,BBGUSAGG_Monthly
+BTC,Bitcoin,Crypto,BTC_Monthly
+CAD,Canadian Dollar,Currency,CAD_Monthly
+CPICHANGE,CPI MoM Change,Economic,CPICHANGE_Monthly
+EOS,EOS,Crypto,EOS_Monthly
+ETH,Ethereum,Crupto,ETH_Monthly
+EUR,Euro,Currency,EUR_Monthly
+GBP,British Pound Sterling,Currency,GBP_Monthly
+HKD,Hong Kong Dollar,Currency,HKD_Monthly
+HOUSEST,US Housting Starts (Thousands),Economic,HOUST_Monthly
+INR,Indian Rupee,Currency,INR_Monthly
+JPY,Japanese Yen,Currency,JPY_Monthly
+LTC,Litecoin,Crypto,LTC_Monthly
+M1,M1 Money Supply,Economic,M1_Weekly
+NONM1,M2 - M1 Money Supply,Economic,NONM1_Weekly
+NZD,New Zealand Dollar,Currency,NZD_Monthly
+REALGDRGR,US Real GDP Growth,Economic,REALGDPGR_Quarterly
+SP03TBILL,S&P 0-3 Month T-Bill,Risk-free,SP03TBILL_Monthly
+SP500TR,S&P 500 (Total),Index,SP500TR_Monthly
+SPGSCICOMM,S&P/GSCI Commodity Index,Index,SPGSCICOMM_Monthly
+UNRATE,Unemployment Rate,Economic,UNRATE_Monthly
+USDIDX,US Dollar Index,Economic,USDIDX_Monthly
+WTIPRICE,Crude Oil (WTI) Price,Economic,WTIPRICE_Monthly
+XRP_Monthly,Ripple,Crypto,XRP_Monthly
